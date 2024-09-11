@@ -2,18 +2,11 @@
 
 <!
 - 🔭 I’m currently working with Health Promotion in Stricto Sensu (Masters and Doctorate) and in the Undergraduate Course in Psychology.
+- I am a researcher at the Cesumar Institute of Science, Technology and Innovation - Iceti.
 
-- 
-**rmacuch/rmacuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I completed a postdoctoral internship at the Faculty of Psychology and Education of the University of Porto, Portugal.
+- I have a PhD in Educational Sciences from the University of Porto, Portugal. I have a Master's degree in Production Engineering with a concentration in Media and Knowledge from the Federal University of Paraná.
+- I am a specialist in Social and Educational Context from the Psychodramatic Association of Paraná, Brazilian Federated Association of Psychodrama.
+- I have a degree in Education from the Federal University of Paraná.
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The most frequent terms in the context of scientific, technological and artistic-cultural production are: health promotion, knowledge management, media and knowledge, higher education, education, teacher training, foundations of learning, collaborative learning, the role of professional performance, group processes and sociopsychodrama.
